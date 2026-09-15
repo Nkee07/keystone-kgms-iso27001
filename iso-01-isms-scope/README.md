@@ -13,7 +13,7 @@
 
 **Document:** ISMS Scope, Context and Leadership Document  
 **Simulated system:** Keystone Grants Management System (KGMS) | `FWDA-KGMS-2026-MOD`  
-**Framework and standards:** ISO/IEC 27001:2022 Clauses 4, 5, 6 and 7  
+**Framework and standards:** ISO/IEC 27001:2022 including Amendment 1:2024, Clauses 4, 5, 6 and 7  
 **Author:** Nkeiru Sarah Adesida  
 **Document date:** 20 February 2026  
 **Status:** Complete
@@ -76,6 +76,20 @@ reader should not have to.
 | Keystone Digital Services LLC (fictional) | Cloud service provider | A clear responsibility split and accurate customer side configuration |
 | Ardent Assurance Group LLC (fictional) | Independent assessor | Accurate documentation to assess against |
 | Certification body | External auditor of this ISMS | A management system that operates as documented, with records to prove it |
+
+### Climate change, Amendment 1:2024
+
+ISO/IEC 27001:2022 was amended in 2024. The amendment asks an organisation to decide
+whether climate change is a relevant issue (Clause 4.1), and notes that interested
+parties can have climate related requirements (Clause 4.2). In plain terms: if extreme
+weather could knock the service over, the management system has to say so.
+
+For KGMS, climate change is determined to be relevant only as a possible cause of an
+extended regional hosting outage, for example severe weather affecting the cloud
+region. That scenario is already assessed as R-07 in the
+[risk register](../iso-03-risk-register/README.md). None of the interested parties
+listed above has stated a climate related requirement. The determination is revisited
+if the hosting arrangement changes.
 
 ### 4.3 and 4.4 The management system
 
