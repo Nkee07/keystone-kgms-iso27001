@@ -132,7 +132,7 @@ Cybersecurity Governance, Risk and Compliance analyst. Certified Information Sys
 Auditor (CISA), CompTIA Security+, and a Master of Science in Cybersecurity Management
 and Policy from University of Maryland Global Campus.
 
-[GitHub](https://github.com/Nkee07) | [LinkedIn](https://www.linkedin.com/in/nkeiru-adesida-grc)
+[GitHub](https://github.com/Nkee07) | [LinkedIn](https://www.linkedin.com/in/nkeiru-adesida-grc) | [nkiru_sarah@yahoo.com](mailto:nkiru_sarah@yahoo.com)
 
 ---
 
